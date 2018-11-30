@@ -1,2 +1,4 @@
 # crud-mongodb
-+ 结合mongoDB写的一个后台数据增删改查系统
++ node搭建服务器
++ 使用了express框架
++ 结合mongoDB
